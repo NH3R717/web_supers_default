@@ -1,7 +1,7 @@
 #!/bin/bash
 #exec &>/tmp/wagui_boot_script.log
 # Run Fail Safe Command
-#set -euxo pipefail
+set -euxo pipefail
 
 echo \
 '
